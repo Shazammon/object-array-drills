@@ -10,6 +10,7 @@ const album1 = {
     formats:  ["LP"]
   }
 }  
+//hi
 
 // 1. Retrieve the string "Sire" from album1, and save it in a sensibly named
 //    variable.
